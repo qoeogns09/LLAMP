@@ -1,1 +1,1 @@
-# AMP-MICreg
+# LLAMP (Large Language model for AMP)
